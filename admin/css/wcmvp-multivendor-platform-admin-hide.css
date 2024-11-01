@@ -1,0 +1,17 @@
+/**
+
+ * Admin end functionality to hide sections from iframe
+
+ * included in this file.
+
+ */
+
+ #adminmenumain, #wpadminbar, .submitdelete, .page-title-action, .notice, .notice-success, .woocommerce-layout__header{
+    display: none !important;
+}
+#wpcontent{
+    margin: 0 !important;
+}
+p a .button-primary{
+    display: none !important;
+}

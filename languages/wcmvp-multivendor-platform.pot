@@ -1,0 +1,3230 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Contact Form 7 PDF-1.0.0\n"
+"POT-Creation-Date: 2021-02-20 22:22+0530\n"
+"PO-Revision-Date: 2019-04-17 20:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: CodexInfra(developers@codexinfra.com)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-functionality.php:25
+msgid "Order Status should be completd to Tranfer amount to vendors."
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-functionality.php:40
+msgid "Each sub Order Status should be completd to Tranfer amount to vendors."
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-functionality.php:63
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-functionality.php:133
+msgid "Amount Should be Greater than 0"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-functionality.php:69
+msgid "Request are neglected whom you already assgined balance, else are approved."
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-functionality.php:111
+msgid "Order Status should be completd to Tranfer amount to vendor."
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-functionality.php:139
+msgid "Amount Already Transferred for this order"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:264
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:275
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:426
+msgid "Preview"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:287
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:59
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:46
+#: public/partials/wcmvp-Vendor-Orders.php:51 public/partials/wcmvp_multivendor_platform_translations.php:9
+msgid "Completed"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:291
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:58
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:44
+msgid "On hold"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:295
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:57
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:42
+#: public/partials/wcmvp-Vendor-Orders.php:67
+#: public/partials/wcmvp_multivendor_platform_translations.php:13
+msgid "Processing"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:299
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:62
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:52
+#: public/partials/wcmvp-Vendor-Orders.php:152
+#: public/partials/wcmvp_multivendor_platform_translations.php:18
+msgid "Failed"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:303
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:60
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:48
+#: public/partials/wcmvp-Vendor-Orders.php:135
+#: public/partials/wcmvp_multivendor_platform_translations.php:17
+msgid "Refunded"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:307
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:61
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:50
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:26
+#: public/partials/wcmvp-Vendor-Orders.php:118
+#: public/partials/wcmvp_multivendor_platform_translations.php:16
+msgid "Cancelled"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:311
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:54
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:38
+msgid "Pending Payment"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:315
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:422
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:501
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:63
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:54
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:74
+#: public/partials/wcmvp_multivendor_platform_translations.php:12
+msgid "Trash"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:319
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:371
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:450
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:25
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:56
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:40
+msgid "Draft"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:332
+msgid "Restore Order"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:335
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:80
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:145
+msgid "Delete Permanently"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:349
+msgid "Send Payment"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:352
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:374
+msgid "Send to Trash"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:389
+msgid "no vendor"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:390
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:51
+msgid "Show Sub Order"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-order-table.php:401
+msgid "Sub Order of #"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:226
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:230
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:243
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:608
+msgid "In stock"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:234
+msgid "Out Of Stock"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:238
+msgid "On backorder"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:364
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:443
+msgid " Password protected"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:375
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:458
+msgid "Password Protected, Draft"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:379
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:462
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:65
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:366
+msgid "Private"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:383
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:454
+msgid "Password Protected"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:387
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:466
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw.php:133
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:27
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:55
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:22
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:52
+#: public/partials/wcmvp-Vendor-Orders.php:101
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:57
+#: public/partials/wcmvp_multivendor_platform_translations.php:11
+#: public/partials/wcmvp_multivendor_platform_translations.php:15
+msgid "Pending"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:391
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:470
+msgid "Password Protected, Pending"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:403
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:419
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:482
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:498
+msgid "ID : "
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:404
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:483
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:79
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:144
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:117
+msgid "Restore"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:405
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:484
+msgid "Delete Permanentaly"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:406
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:427
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:485
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:503
+msgid "Duplicate"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:420
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:499
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:233
+#: public/partials/wcmvp_product_page/wcmvp_product_datatable_cb.php:111
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:421
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:500
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:284
+msgid "Quick Edit"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:424
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-product-table.php:502
+#: public/partials/wcmvp_vendor_order_table.php:150
+msgid "View"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-store-setup.php:27
+msgid "Welcome to Multi Vendor Platform For WooCommerce  !"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-store-setup.php:29
+msgid ""
+"We pleasure you for choosing Multi Vendor Platform For WooCommerce  to start your marketplace with! Here "
+"you will get the shortest section to build your marketplace Multi Vendor Platform For WooCommerce ."
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-store-setup.php:29
+msgid "Its purely voluntary and will not take more than 3 minutes of your."
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-store-setup.php:31
+msgid ""
+"Not Yet, Don't be panic, if you don't wanna begin now, come to us later, we will always love to help you "
+"with your multivendor Marketplace."
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-store-setup.php:33
+msgid "Not Right Now"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-store-setup.php:33
+msgid "Let's Go"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-store-setup.php:43
+msgid "General"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-store-setup.php:43
+msgid "Selling Options"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-store-setup.php:43
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:73
+msgid "Withdraw Options"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-store-setup.php:43
+#: admin/partials/menu/wcmvp-multivendor-platform-settings.php:23
+msgid "Appearence"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-vendor-edit.php:43
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-vendor-edit.php:49
+msgid "Recently, A New Vendor Created"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-vendor-edit.php:70
+msgid "Notification about your vendor account"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-vendor-edit.php:71
+msgid "Dear"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-vendor-edit.php:71
+msgid ", Your Vendor Account created with"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-vendor-edit.php:71
+msgid ",Please Contact Administrator for further reference"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-vendor-edit.php:85
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-vendor-edit.php:91
+msgid "Recently, A Vendor Updated"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw-functionality.php:83
+msgid "withdrawl Amount should be greater than Vendor balance"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw-functionality.php:172
+msgid "Only sufficient requests are accepted else are neglected"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw.php:106
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw.php:132
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:53
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:116
+#: public/partials/wcmvp_multivendor_platform_translations.php:28
+#: public/partials/wcmvp_product_page/wcmvp_product_datatable_cb.php:110
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw.php:107
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:281
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:51
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw.php:171
+msgid "Approve Request"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw.php:175
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw.php:183
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw.php:196
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:119
+msgid "Add Note"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-multivendor-platform-withdraw.php:192
+msgid "Mark as Pending"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-paypal-integration.php:116
+#, php-format
+msgid "Payment recieved from %1$s as selling at %2$s on %3$s"
+msgstr ""
+
+#: admin/partials/admin-includes/wcmvp-stripe-integration.php:114
+msgid "Payout for withdrawal ID #"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:6
+msgid "Changes Saved"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:7
+msgid "Some Error Occurred"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:8
+#: public/partials/wcmvp_multivendor_platform_translations.php:6
+msgid "Select a image to upload"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:9
+#: public/partials/wcmvp_multivendor_platform_translations.php:7
+msgid "Use this image"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:10
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:522
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:967 public/partials/wcmvp_store_setup.php:407
+msgid "Next"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:11
+msgid "Regenerate"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:12
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:277
+msgid "Generate Password"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:13
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:741
+msgid "Update"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:14
+msgid "Launch Multi Vendor Platform For WooCommerce "
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:15
+#: public/partials/wcmvp-Vendor-product-add.php:57
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:16
+msgid "Total Sale Amount"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:17
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:112
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:135
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:78
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:102
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:85
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:95
+#: public/wcmvp-class-multivendor-platform-public.php:2088
+msgid "Vendor"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:18
+msgid "Product Sold"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:19
+msgid "Vendor Store Name"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:20
+msgid "Orders Completed"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:21
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:89
+#: public/partials/wcmvp_multivendor_platform_translations.php:44
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:93
+msgid "Orders"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:22
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:87
+msgid "Product"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:23
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:53
+msgid "Commission"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:24
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:42
+#: public/partials/wcmvp_multivendor_platform_translations.php:10
+msgid "Online"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:26
+msgid "Product Stats"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:28
+msgid "Approved Vendors"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:29
+msgid "Waiting For Approval Vendors"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:30
+msgid "Total Vendors"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:31
+msgid "Go back to Vendors List"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:32
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:147
+msgid "Edit Order"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:33
+#: public/wcmvp-class-multivendor-platform-public.php:2154
+msgid "No products found"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:34
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:83
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:290
+msgid "Products"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:35
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:584
+msgid "Quantity"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:36
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:111
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:134
+msgid "Total"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:37
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:27
+msgid "Add Order"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:38
+msgid "Amount Transferred to Vendor"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:39
+msgid "Request are approved whom you not send balance previously"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:40
+msgid "Are you sure want to delete this order, It will also delete all of its sub order"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:41
+msgid "Are you sure want to delete these orders"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:42
+msgid "Order Restored Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:43
+msgid "Order Deleted Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:44
+msgid "Order Trashed Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:45
+msgid "Orders Trashed Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:46
+msgid "Orders Deleted Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:47
+msgid "Orders Restored Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:48
+msgid "Orders sent to Processing State"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:49
+msgid "Orders sent to On-hold State"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:50
+msgid "Orders sent to Completed State"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:52
+msgid "Hide Sub Order"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:53
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:51
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:36
+#: public/partials/wcmvp-Vendor-Orders.php:36
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:28
+#: public/partials/wcmvp_multivendor_platform_translations.php:8
+msgid "All"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:64
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:402
+msgid "Published"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:66
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:53
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:24
+msgid "Approved"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:67
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:55
+msgid "Disabled"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:68
+msgid "Product Updated Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:69
+msgid "Product Trashed Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:70
+msgid "Products Trashed Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:71
+msgid "Product Restored Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:72
+msgid "Products Restored Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:73
+msgid "Product Deleted Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:74
+msgid "Products Deleted Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:75
+msgid "Are you sure want to empty trash, It will delete all product of this vendor."
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:76
+msgid "Products Visibiliy Successfully Changed"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:77
+msgid "User Name is Required"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:78
+msgid "Email is Required"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:79
+msgid "Password is Required"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:80
+msgid "Store Name is Required"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:81
+msgid "Vendor Updated Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:82
+msgid "Vendor Created Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:83
+msgid "Request sent back to pending state"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:84
+msgid "Requests are sent back to pending state"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:85
+msgid "Request Deleted Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:86
+msgid "Requests are Deleted Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:87
+msgid "Request Cancelled Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:88
+msgid "Requests are Cancelled Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:89
+msgid "Request Approved Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:90
+msgid "Requests are Approved Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:91
+msgid "Note Updated Successfully"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:92
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:537
+#: public/partials/wcmvp-Vendor-product-add.php:350 public/partials/wcmvp-Vendor-product-add.php:351
+#: public/partials/wcmvp_multivendor_platform_translations.php:45
+msgid "Search"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:93
+msgid "Pending Orders"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:94
+msgid "Processing Orders"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:95
+msgid "On Hold Orders"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:96
+msgid "Cancelled Orders"
+msgstr ""
+
+#: admin/partials/js-translations/wcmvp-multivendor-platform-js-translations-string.php:97
+msgid "Failed Orders"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:13
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:38
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:21
+msgid "Upgrade To Bazaar Pro"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:24
+msgid "Enjoy Up To 50% OFF On WCMVP Pro"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:25
+msgid "Get Your Amazing Deals Now."
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:26
+msgid "Get Deals →"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:31
+msgid "Seems To Be Convinced, You Need More Out Of Your Marketplace"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:37
+msgid "Admin Capabilities"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:38
+msgid ""
+"The most admirable thing about the WCMVP PRO admin capability is that all the vendor will get great "
+"features and freedom of selling their products & admin will be superior power. To use the features "
+"listed below Upgrade Now!"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:39
+msgid "Checkout! Admin Functionalities →"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:43
+msgid "Vendor Capabilities"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:44
+msgid ""
+"Provide all your vendors best features and great user interface for easy operation. Also get the best "
+"experience by getting these advance features listed below. Enhance your capability soon by Upgrading to "
+"WCMVP PRO now!"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:45
+msgid "Checkout! Vendor Functionalities →"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:49
+msgid "Comparison With"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:58
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:153
+msgid "Frontend order management"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:63
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:157
+msgid "Separate Vendors Dashboard "
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:70
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:162
+msgid "Store Listing of Vendors"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:77
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:167
+msgid "Google map & map-box API"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:81
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:171
+msgid "Searching, Sorting & Filtering via Ajax"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:87
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:175
+msgid "Security Aspects"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:91
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:179
+msgid "Manage Customers"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:95
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:183
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:127
+msgid "Seller Verification"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:100
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:187
+msgid "CSV Exporter for everything"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:104
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:191
+msgid "Simple & Varient Product Management"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:108
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:195
+msgid "Numerous Commission"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:113
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:200
+msgid "Social Media Logins"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:117
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:204
+msgid "WPML Integration "
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:121
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:208
+msgid "Shipping and Tax Management"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:125
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:212
+msgid "Light and Dark Themes"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:129
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:216
+msgid "Generate Coupons"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:133
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:220
+msgid "Manage Reviews"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:137
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:224
+msgid "Create Invoice and Packaging Slip"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:141
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:228
+msgid "Assign Products to Vendors"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:241
+msgid "30 Days Money Back Guarantee"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:242
+msgid "After successful purchase, you will be eligible for conditional refund"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:247
+msgid "Payment Options:"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:257
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:32
+msgid "MultiVendor Platform For WooCommerce"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:259
+msgid "Convinced?"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:260
+msgid "With all the advance features you get it’s hard to resist buying Dokan Pro."
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-features.php:261
+msgid "Upgrade to Pro →"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:28
+msgid "Total Sale within Month"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:29
+msgid "Commission Earned"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:30 public/partials/wcmvp_dashboard.php:79
+msgid " items"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:30
+msgid "Sold within Month"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:31
+msgid " orders"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:31
+msgid "completed in Month"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:38
+msgid "Monthly Analytics"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:45
+msgid " Product Status"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:49
+msgid " Vendors Status"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:76
+msgid " Notifications"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:77
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:87
+msgid "There is no notification yet!!"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:80
+msgid " Inquiries"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:81
+msgid "There is no inquiry yet!!"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:86
+msgid "  Store Stats"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:90
+msgid " Latest Topics"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:91
+msgid "There is no topic yet!!"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:97
+msgid "Top of The Month"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:102
+msgid " Top Sellers of the Month"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-report.php:106
+msgid " Top Selling Products of the Month"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-settings.php:8
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-settings.php:11
+msgid "Selllings "
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-settings.php:14
+msgid "Withdrawals "
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-settings.php:17
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:80
+msgid "Payment Methods"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-settings.php:20
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:43
+msgid "Page Settings"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-settings.php:26
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-privacy-policy.php:27
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-privacy-policy.php:103
+msgid "Privacy Policy"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-settings.php:29
+msgid "Social Api"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:39
+msgid "Add Vendor"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:78
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:77
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:142
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:49
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:79
+msgid "Approve Vendors"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:80
+msgid "Disable Vendors"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:83
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:87
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:148
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:56
+msgid "Apply"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:106
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:127
+msgid "Store"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:107
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:128
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:249
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:187
+#: public/partials/wcmvp-Vendor-store-settings.php:198 public/partials/wcmvp_store_setup.php:225
+#: public/partials/wcmvp_store_setup.php:427
+msgid "Email"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:108
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:129
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:191
+#: public/partials/wcmvp-Vendor-store-settings.php:183 public/partials/wcmvp-Vendor-store-settings.php:190
+#: public/partials/wcmvp_store_setup.php:185 public/wcmvp-class-multivendor-platform-public.php:1307
+msgid "Phone"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:109
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:130
+msgid "Registered"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:110
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:131
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:110
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:133
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:80
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:104
+#: public/partials/wcmvp-Vendor-Orders.php:235 public/partials/wcmvp-Vendor-withdraw.php:176
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:174
+msgid "Status"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:140
+msgid "Add New Vendor"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:148
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:541
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:556
+msgid "Store Details"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:152
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:545
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:702
+msgid "Store Address"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:156
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:549
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:779
+msgid "Payments & Commission"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:171
+#: public/partials/wcmvp_multivendor_platform_translations.php:49
+msgid "Upload Banner"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:174
+msgid "Upload banner for your store. Banner size is (625x300)pixels."
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:189
+#: public/wcmvp-class-multivendor-platform-public.php:1279
+msgid "First name"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:201
+#: public/wcmvp-class-multivendor-platform-public.php:1286
+msgid "Last name"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:213
+msgid "Store name"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:225
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:584
+msgid "Store URL"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:237
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:596
+msgid "Phone Number"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:261
+msgid "Username"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:271
+msgid "Password"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:290
+msgid "Send the vendor an email about their account."
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:311
+msgid "Address line 1"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:323
+msgid "Address line 2"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:335
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:733
+msgid "Town/City"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:347
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:745
+msgid "Zip Code"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:356 public/partials/wcmvp_store_setup.php:110
+msgid "Country"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:364
+msgid "Select A Country"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:376
+msgid "State / County"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:400
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:799
+msgid "Account Number"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:412
+#: public/partials/wcmvp-Vendor-Payments.php:62 public/partials/wcmvp_store_setup.php:463
+msgid "Bank name"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:424
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:811
+msgid "Bank Address"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:436
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:823
+msgid "Routing Number"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:448
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:835
+msgid "Bank IBAN"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:460
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:847
+msgid "Bank Swift"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:472
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:859
+msgid "PayPal Email"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:484
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:871
+msgid "Stripe Id"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:492
+msgid "Enable Selling"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:501
+msgid "Publish Product Directly"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:510
+msgid "Make Vendor Featured"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:532
+msgid "Edit Vendor Detail"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:558 public/partials/wcmvp_store_setup.php:23
+msgid "Banner"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:562
+#: public/partials/wcmvp-Vendor-product-add.php:44 public/partials/wcmvp_store_setup.php:32
+#: public/partials/wcmvp_store_setup.php:50
+msgid "Upload image"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:572
+msgid "Store Name"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:608
+msgid "Facebook"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:620
+msgid "Google Plus"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:632
+msgid "Twitter"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:644
+msgid "Pinterest"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:656
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:668
+msgid "Youtube"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:680
+msgid "Instagram"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:692
+msgid "Flickr"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:709
+msgid "Address 1"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:721
+msgid "Address 2"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:760
+msgid "Select a country"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:787
+msgid "Bank Name"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:880
+msgid "Selling"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:892
+msgid "Enable Adding Products"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:893
+msgid "Enable or disable product adding capability"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:897
+msgid "Publishing"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:909
+msgid "Publish product directly"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:910
+msgid "Bypass pending, publish products directly"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:914
+msgid "Admin Commission Type"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:918
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:61
+msgid "Flat"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:919
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:62
+msgid "Percentage"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:920
+msgid "Set the commmission type admin gets from this seller"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:926
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:933
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:68
+msgid "Admin Commission"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:938
+msgid "It will override the default commission admin gets from each sales"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:942
+msgid "Featured vendor"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:954
+msgid "Mark as featured vendor"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor.php:955
+msgid "This vendor will be marked as a featured vendor."
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:78
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:143
+msgid "Move To Trash"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:81
+msgid "Change Status to Processing"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:82
+msgid "Change Status to On-hold"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:83
+msgid "Change Status to Completed"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:108
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:131
+#: public/partials/wcmvp-Vendor-Orders.php:249
+msgid "Order"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:109
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:132
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:208
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:233
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:318
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:325
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:84
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:108
+#: public/partials/wcmvp-Vendor-Orders.php:237 public/partials/wcmvp-Vendor-withdraw.php:174
+#: public/partials/wcmvp-Vendor-withdraw.php:206
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:181
+msgid "Date"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:113
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:136
+msgid "Sub Order"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:114
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:137
+msgid "Actions"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:175
+msgid "Billing Details"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:195
+msgid "Payment Via"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:200
+msgid "Shipping Details"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:212
+msgid "Shipping Methods"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_orders.php:214
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:83
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:107
+msgid "Note"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:27
+msgid "all"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:101
+msgid " Add Product"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:109
+msgid "All("
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:111
+msgid "Published("
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:113
+msgid "Draft("
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:115
+msgid "Pending("
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:117
+msgid "Trash("
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:119
+msgid "Private("
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:200
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:225
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:172
+msgid "Image"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:201
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:226
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:173
+#: public/partials/wcmvp_multivendor_platform_translations.php:52
+msgid "Name"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:202
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:227
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:411
+#: public/partials/wcmvp-Vendor-product-add.php:218
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:175
+msgid "SKU"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:203
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:228
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:176
+msgid "Stock"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:204
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:229
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:426
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:177
+msgid "Price"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:205
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:230
+msgid "Categories"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:206
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:231
+msgid "Tags"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:207
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:232
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:553
+msgid "Featured"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:243
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:273
+msgid "Edit Product"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:244
+msgid "Add Product"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:245
+msgid "Duplicate Product"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:287
+msgid "Title"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:294
+msgid "Product Title"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:303
+msgid "Slug"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:310
+msgid "Product Slug"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:330
+msgid "at"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:336
+msgid "Time"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:344
+msgid "password"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:351
+msgid "Enter your password"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:356
+msgid "-OR-"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:370
+msgid "Product Tags"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:379
+msgid "Separate tags with commas"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:383
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:395
+msgid "Enable Reviews"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:399
+msgid "Status?"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:403
+msgid "Pending Review "
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:404
+msgid "Draft "
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:406
+#: public/partials/wcmvp-Vendor-product-add.php:333
+msgid "Product Status"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:409
+msgid "Product Data"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:418
+msgid "Product SKU"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:433
+#: public/partials/wcmvp-Vendor-product-add.php:73
+msgid "Regular Price"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:441
+msgid "Sale"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:448
+#: public/partials/wcmvp-Vendor-product-add.php:90
+msgid "Sale Price"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:456
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:463
+msgid "Weight"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:471
+msgid "L/W/H"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:479
+msgid "Length"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:490
+msgid "Width"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:501
+msgid "Height"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:510
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:523
+msgid "Shipping Class"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:517
+msgid "No shipping class"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:532
+#: public/partials/wcmvp-Vendor-product-add.php:341
+msgid "Visibility"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:535
+msgid "Catalog & Search"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:536
+msgid "Catalog "
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:538
+#: public/partials/wcmvp-Vendor-product-add.php:353 public/partials/wcmvp-Vendor-product-add.php:354
+msgid "Hidden"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:540
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:119
+msgid "Select"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:559
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:572
+msgid "Manage Stock"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:577
+msgid "Stock qty"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:592
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:599
+msgid "Backorders"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:595
+msgid "Do not allow"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:596
+msgid "Allow, but notify customer "
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:597
+msgid "Allow"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:605
+msgid "In stock?"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:609
+msgid "Out of stock "
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:610
+msgid "On backorder "
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:612
+msgid "In Stock?"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-vendor_product.php:618
+msgid "Product Category"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:50
+msgid "Approve"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:79
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:103
+#: public/partials/wcmvp-Vendor-withdraw.php:172 public/partials/wcmvp-Vendor-withdraw.php:204
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:81
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:105
+#: public/partials/wcmvp-Vendor-withdraw.php:173 public/partials/wcmvp-Vendor-withdraw.php:205
+msgid "Method"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:82
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:106
+msgid "Details"
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:85
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:109
+msgid "Actions."
+msgstr ""
+
+#: admin/partials/menu/wcmvp-multivendor-platform-withdraw.php:138
+msgid "Update Note"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:58
+msgid "Appearance"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:63
+msgid "Show Map on Store Page"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:76
+msgid "Enable Map of the Store Location in the store sidebar"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:80
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:89
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:96
+msgid "Map API Source"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:83
+msgid "Google Maps"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:84
+msgid "Mapbox"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:85
+msgid "Which Map API source you want to use in your site?"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:101
+msgid "API Key"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:101
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:116
+msgid "is needed to display map on store page"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:104
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:111
+msgid "Mapbox Access Token"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:116
+msgid "Access Token"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:119
+msgid "Show Contact Form on Store Page"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:133
+msgid "Display a vendor contact form in the store sidebar"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:137
+msgid "Store Opening Closing Time Widget"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:150
+msgid "Enable store opening & closing time widget in the store sidebar"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:153
+msgid "Enable Store Sidebar From Theme"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:166
+msgid "Enable showing Store Sidebar From Your Theme"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:185
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:154
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:226
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:256
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-privacy-policy.php:114
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:168
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:123
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-appearence.php:185
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:154
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:168
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:123
+msgid "Skip For Now"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:47
+msgid "Site Options"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:52
+msgid "Admin area access"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:65
+msgid "Disallow Vendors from accessing the wp-admin dashboard area"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:68
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:75
+msgid "Vendor Store URL"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:80
+msgid "Define the Vendor store URL ("
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:84
+msgid "Vendor Setup Wizard Logo"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:91
+msgid "Wizard Logo Url"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:97
+msgid "Upload"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:100
+msgid "Recommended Logo size ( 270px X 90px ). If no logo is uploaded, site title is shown by default."
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:103
+msgid "Disable Welcome Wizard"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:116
+msgid "Disable welcome wizard for newly registered vendors"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:119
+msgid "Vendor Store Options"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:120
+msgid "Store Terms and Conditions"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-general-setting.php:132
+msgid "Enable Terms and Conditions for vendor stores"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:46
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:62
+msgid "Dashboard"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:62
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:79
+msgid "Dashboard Page"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:84
+msgid "Select a page to show Vendor Dashboard"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:87
+msgid "My Orders"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:103
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:120
+msgid "My Orders Page"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:125
+msgid "Select a page to show My Orders"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:128
+msgid "Store Listing"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:144
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:161
+msgid "Store Listing Page"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:166
+msgid "Select a page to show all Stores"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:169
+msgid "Terms and Conditions Page"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:185
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:202
+msgid "Terms & Conditions Page"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:207
+msgid "Select where you want to add Multi Vendor Platform For WooCommerce  pages"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-page-setting.php:207
+msgid "Learn More"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:74
+msgid "Payment Gateway"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:93
+msgid "PayPal"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:107
+msgid "Stripe"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:121
+msgid "Bank Transfer"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:135
+msgid "Cash"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:139
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:183
+msgid "Enable Sandbox Mode"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:152
+msgid "( PayPal )"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:155
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:162
+msgid "PayPal Client ID"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:169
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:176
+msgid "PayPal Secret Key"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:196
+msgid "( Stripe )"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:199
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:206
+msgid "Stripe Client ID"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:213
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:220
+msgid "Stripe Secret Key"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:227
+msgid "Stripe Publishable key"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-payment-gateway.php:234
+msgid "Stripe Publishable Key"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-privacy-policy.php:32
+msgid "Enable Privacy Policy"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-privacy-policy.php:45
+msgid "Enable privacy policy for Vendor store contact form"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-privacy-policy.php:62
+msgid "Privacy Policy Page"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-privacy-policy.php:78
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-privacy-policy.php:95
+msgid "Privacy & Policy Page"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-privacy-policy.php:100
+msgid "Select a page to show your privacy policy"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:58
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:64
+msgid "Commission Type"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:66
+msgid "Select a commission type for Vendor"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:75
+msgid "Admission Commision"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:82
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:88
+msgid "Shipping Fee Recipient"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:86
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:96
+msgid "Admin"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:90
+msgid "Who will be receiving the Shipping fees"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:92
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:98
+msgid "Tax Fee Recipient"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:100
+msgid "Who will be receiving the tax fees"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:102
+msgid "Vendor Capability"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:103
+msgid "New Vendor Product Upload"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:116
+msgid "Allow newly registered vendors to add products"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:119
+msgid "Disable Product Popup"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:132
+msgid "Disable add new product in popup view"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:135
+msgid "Order Status Change"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-selling-option.php:148
+msgid "Allow/Disallow vendor to update order status"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:79
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:86
+msgid "Minimum Withdraw Limit"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:91
+msgid "Minimum balance required to make a withdraw request. Leave blank to set no minimum limits."
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:94
+msgid "Amount add to vendor's Account"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:98
+msgid "Select Option"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:99
+msgid "After Admin Approval"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:100
+msgid "On Order Completed"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:101
+msgid "On Order Processing"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:103
+msgid "Add Amount"
+msgstr ""
+
+#: admin/partials/sub-menu/wcmvp-multivendor-platform-withdraw-option.php:105
+msgid "When vendor receive Balance? , Default set to after admin Approval"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:29
+msgid "Administration Catalog"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:35
+msgid "Document Support"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:36
+msgid "Pro demo"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:37
+msgid "Support"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:49
+msgid "Back to Wordpress"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:51
+msgid "Logout"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:77
+msgid "Home"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:95
+msgid "Withdrawal"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:101
+msgid "Store Vendors"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:107
+#: public/partials/wcmvp-Vendor-Orders.php:236
+msgid "Customer"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:115
+msgid "Pro Features"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:119
+msgid "Analytic Report"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:123
+msgid "Announcements"
+msgstr ""
+
+#: admin/partials/wcmvp-multivendor-platform-admin-display.php:131
+msgid "Marketplace Settings"
+msgstr ""
+
+#: admin/wcmvp-class-multivendor-platform-admin.php:230
+msgid "Multi Vendor Platform For WooCommerce"
+msgstr ""
+
+#: admin/wcmvp-class-multivendor-platform-admin.php:230
+msgid "Multi-Vendor Platform"
+msgstr ""
+
+#: admin/wcmvp-class-multivendor-platform-admin.php:692
+#: admin/wcmvp-class-multivendor-platform-admin.php:738
+#: admin/wcmvp-class-multivendor-platform-admin.php:1668
+msgid "Select State"
+msgstr ""
+
+#: admin/wcmvp-class-multivendor-platform-admin.php:2976
+#: admin/wcmvp-class-multivendor-platform-admin.php:2982
+msgid "A New Order has been Received"
+msgstr ""
+
+#: assets/wcmvp_vendor_dashboard_template.php:25
+msgid "bAZAAR Vendor Dashboard"
+msgstr ""
+
+#: includes/wcmvp-class-multivendor-platform-activator.php:64
+msgid "Woocommerce must be actived to install this plugin"
+msgstr ""
+
+#: includes/wcmvp-class-multivendor-platform-activator.php:111
+msgid ""
+"Your personal data will be used to process your order, support your experience throughout this website, "
+"and for other purposes described in our Multi Vendor Platform For WooCommerce  Privacy & Policy"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:84
+#: public/partials/wcmvp_multivendor_platform_translations.php:14
+msgid "On-hold"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:173
+msgid "Select Date"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:178
+msgid "Filter Order"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:184
+msgid "Export All"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:188
+msgid "Export Selected"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:206
+msgid "Select action"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:207
+msgid "Change to on_hold"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:208
+msgid "Change to processing"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:209
+msgid "Change to Complete"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:233
+msgid "Order no."
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:234
+msgid "Order Total"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:238
+msgid "Action"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:259
+msgid "Order items"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:265
+msgid "Items"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:268
+msgid "Qty"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:271
+msgid "Totals"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:280
+msgid "Subtotal:"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:284
+msgid "Shipping:"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:288
+msgid "Payment method:"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:292
+msgid "Total:"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:304
+msgid "Billing Address"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:315
+msgid "Shipping Address"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:332
+msgid "General details"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:338
+msgid "Order Status:"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:344
+msgid "Order Date: "
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:350
+msgid "Earning From Order:"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:357
+msgid "Customer:"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:363
+msgid "Email:"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:369
+msgid "Phone:"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Orders.php:375
+msgid "Customer IP:"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:6
+msgid "Payment Settings"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:8
+msgid ""
+"These are the pull out strategies accessible for you. If you don't mind update your installment data "
+"underneath to submit pull out solicitations and get your store installments consistently."
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:27
+msgid "Paypal Email"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:37
+msgid "Stripe ID"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:46 public/partials/wcmvp_store_setup.php:439
+msgid "Account name"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:54 public/partials/wcmvp_store_setup.php:451
+msgid "Account no"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:70 public/partials/wcmvp_store_setup.php:475
+msgid "Bank place"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:77
+msgid "Routing No."
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:84 public/partials/wcmvp_store_setup.php:499
+msgid "IBAN"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:92
+msgid "Swift_code"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-Payments.php:98 public/partials/wcmvp-Vendor-store-settings.php:514
+#: public/partials/wcmvp-Vendor-withdraw.php:160 public/partials/wcmvp_store_setup.php:520
+msgid "Submit"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:97
+msgid "Schedule"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:103
+msgid "From"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:105 public/partials/wcmvp-Vendor-product-add.php:111
+msgid "DD/MM/YYYY"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:109
+msgid "To"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:144
+msgid "Description"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:154
+msgid "Add More Details"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:158
+msgid "Create & Add _New"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:163
+msgid "Extra Details"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:169
+msgid "Product type and Short description"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:185
+msgid "Download"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:198
+msgid "Virtual"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:203
+msgid "Short_Description"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:210
+msgid "Invenory"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:220
+msgid "Stock Keeping Unit"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:228
+msgid "sku"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:236
+msgid "Stock status"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:239
+msgid "instock"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:240
+msgid "In Stock"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:242
+msgid "outstock"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:243
+msgid "Out of Stock"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:245
+msgid "backorder"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:246
+msgid "Back order"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:262
+msgid "Enable product stock management"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:277
+msgid "Allow only one quantity of this product to be bought in a single order"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:282
+msgid "Downloadable Options"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:287
+msgid "Add file"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:287
+msgid "More than one file can be attached"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:290
+msgid "Download limit"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:297
+msgid "download limit"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:305
+msgid "Download expiry"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:312
+msgid "download expiry"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:317
+msgid "Enter the number of days before a download link expires, or leave blank."
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:326
+msgid "Other Options"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:329
+msgid "Set your extra product options"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:336
+msgid "Pending Review"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:344 public/partials/wcmvp-Vendor-product-add.php:345
+msgid "Visible"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:347 public/partials/wcmvp-Vendor-product-add.php:348
+msgid "Catalog"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:360
+msgid "Purchase Note"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:383
+msgid "Enable product reviews"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:401 public/partials/wcmvp-Vendor-product-add.php:429
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:106
+msgid "Add New Product"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-product-add.php:442
+msgid "Back"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:6
+msgid "Store Setting"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:64 public/partials/wcmvp-Vendor-store-settings.php:71
+#: public/partials/wcmvp_store_setup.php:71
+msgid "Store Product Per Page"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:79 public/partials/wcmvp-Vendor-store-settings.php:86
+#: public/partials/wcmvp_store_setup.php:398
+msgid "Street"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:95 public/partials/wcmvp-Vendor-store-settings.php:102
+msgid "Street 2t"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:111 public/partials/wcmvp-Vendor-store-settings.php:118
+#: public/partials/wcmvp_store_setup.php:147 public/partials/wcmvp_store_setup.php:154
+msgid "City"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:127 public/partials/wcmvp-Vendor-store-settings.php:134
+#: public/partials/wcmvp_store_setup.php:169
+msgid "Post/Zip Code"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:143
+msgid "Countries"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:157
+msgid "Enter something"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:168 public/partials/wcmvp-Vendor-store-settings.php:175
+#: public/partials/wcmvp_store_setup.php:131 public/partials/wcmvp_store_setup.php:138
+msgid "State"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:213 public/partials/wcmvp_store_setup.php:236
+msgid "Show email address in store"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:218 public/partials/wcmvp_store_setup.php:241
+msgid "Show more tab"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:233 public/partials/wcmvp_store_setup.php:252
+msgid "Enable tab on product single page view"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:238 public/partials/wcmvp-Vendor-store-settings.php:245
+#: public/partials/wcmvp_store_setup.php:209 public/partials/wcmvp_store_setup.php:216
+msgid "Map"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:254
+msgid "Store Opening Closing Time"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:269
+msgid "Show store opening closing time widget in store page"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:281
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:137
+#: public/partials/wcmvp_store_setup.php:278
+msgid "Sunday"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:284 public/partials/wcmvp-Vendor-store-settings.php:315
+#: public/partials/wcmvp-Vendor-store-settings.php:342 public/partials/wcmvp-Vendor-store-settings.php:370
+#: public/partials/wcmvp-Vendor-store-settings.php:398 public/partials/wcmvp-Vendor-store-settings.php:424
+#: public/partials/wcmvp-Vendor-store-settings.php:452 public/partials/wcmvp_store_setup.php:280
+#: public/partials/wcmvp_store_setup.php:292 public/partials/wcmvp_store_setup.php:304
+#: public/partials/wcmvp_store_setup.php:317 public/partials/wcmvp_store_setup.php:330
+#: public/partials/wcmvp_store_setup.php:343 public/partials/wcmvp_store_setup.php:357
+msgid "close"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:289 public/partials/wcmvp-Vendor-store-settings.php:310
+#: public/partials/wcmvp-Vendor-store-settings.php:337 public/partials/wcmvp-Vendor-store-settings.php:365
+#: public/partials/wcmvp-Vendor-store-settings.php:393 public/partials/wcmvp-Vendor-store-settings.php:419
+#: public/partials/wcmvp-Vendor-store-settings.php:447 public/partials/wcmvp_store_setup.php:281
+#: public/partials/wcmvp_store_setup.php:291 public/partials/wcmvp_store_setup.php:316
+#: public/partials/wcmvp_store_setup.php:329
+msgid "Open"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:304
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:139
+#: public/partials/wcmvp_store_setup.php:289
+msgid "Monday"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:331
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:141
+#: public/partials/wcmvp_store_setup.php:300
+msgid "Tuesday"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:359
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:143
+#: public/partials/wcmvp_store_setup.php:313
+msgid "Wednesday"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:387
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:145
+#: public/partials/wcmvp_store_setup.php:326
+msgid "Thursday"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:413
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:147
+#: public/partials/wcmvp_store_setup.php:339
+msgid "Friday"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:441
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:149
+#: public/partials/wcmvp_store_setup.php:353
+msgid "Saturday"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:468 public/partials/wcmvp-Vendor-store-settings.php:478
+#: public/partials/wcmvp_store_setup.php:367 public/partials/wcmvp_store_setup.php:374
+msgid "Store Open Notice"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:487 public/partials/wcmvp-Vendor-store-settings.php:496
+#: public/partials/wcmvp_store_setup.php:383 public/partials/wcmvp_store_setup.php:389
+msgid "Store close notice"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-store-settings.php:504
+msgid "Save"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:11
+msgid "Balance : "
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:25
+msgid "Min. Amount can be withdrawn  "
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:44
+msgid " Withdraw Request"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:60
+#: public/partials/wcmvp_multivendor_platform_translations.php:20
+msgid "Approved Requests"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:76
+#: public/partials/wcmvp_multivendor_platform_translations.php:21
+msgid "Cancelled Requests"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:95
+msgid "Add New Withdraw Request"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:101
+msgid "Withdraw Request Form"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:109 public/partials/wcmvp-Vendor-withdraw.php:116
+msgid "Withdraw Amount"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:123
+msgid " Payment Methods"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:175
+#: public/partials/wcmvp_multivendor_platform_translations.php:55
+#: public/wcmvp-class-multivendor-platform-public.php:560
+msgid "Remove"
+msgstr ""
+
+#: public/partials/wcmvp-Vendor-withdraw.php:189
+msgid "Withdraw Details"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_Store_shortcode_cb.php:68
+msgid "Sorry No Vendor Available."
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_Store_shortcode_cb.php:75
+msgid "Total store showing: "
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_Store_shortcode_cb.php:81
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:151
+msgid "Filter"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_Store_shortcode_cb.php:84
+msgid "Sort by:"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_Store_shortcode_cb.php:86
+msgid "Most Recent"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_Store_shortcode_cb.php:91
+msgid "Most popular"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_Store_shortcode_cb.php:198
+msgid "No Match Found"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_Store_shortcode_cb.php:287
+#: public/wcmvp-class-multivendor-platform-public.php:2130
+msgid "The vendor is not rated yet"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:68
+msgid "Store Product Category"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:70
+msgid " No category Found "
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:80
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:87
+msgid "Store Location"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:135
+msgid "Store Time"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:155
+msgid "Contact Vendor"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:186
+msgid "Type your message here"
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:194
+msgid ""
+"Your personal data will be used to process your order, support your experience throughout this website."
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:198
+msgid "For other purposes described in our "
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:345
+msgid "Vendor Have posted no product yet."
+msgstr ""
+
+#: public/partials/wcmvp_Vendor_Store/wcmvp_Vendor_store_endpoints.php:358
+msgid "No Vendor exist of that name."
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:55
+msgid "Overview"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:62
+msgid "Entire Sales "
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:69
+msgid "Entire Savings"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:81
+msgid "Entire Orders"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:91
+msgid "Entire views of all products"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:109
+msgid "Order  Overview"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:116
+msgid "All completed order of vendor"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:120
+msgid "All processing order of vendor"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:126
+msgid "All on-hold order  of vendor"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:134
+msgid "All pending order  of vendor"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:140
+msgid "Product & Withdraw Overview"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:151
+msgid "All published products of vendor"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:157
+msgid "All pending products of vendor"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:164
+msgid "All pending withdraw request of vendor"
+msgstr ""
+
+#: public/partials/wcmvp_dashboard.php:171
+msgid "All approved withdraw request of vendor"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:115
+msgid "Bulk Action"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:123
+msgid "-None-"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:178
+msgid "Earning"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:179
+msgid "Type"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform-shortcode-product.php:180
+msgid "Views"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:19
+msgid "Withdraw Request"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:22
+msgid "Successful"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:23
+msgid "Invalid Request"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:24
+msgid "Unsuccessfull"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:25
+msgid "Products have been deleted"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:26
+msgid "Select a file to upload"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:27
+msgid "Use this file"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:29
+msgid "Sku already exists"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:30
+msgid "Please enter product name"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:31
+msgid "Sale Price should be less than regular price"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:32
+msgid "Are you sure you want to trash it?"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:33
+msgid "trashed successfully"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:34
+msgid "Deleted successfully"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:35
+msgid "Restore successfully"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:36
+msgid "Sent Successfully"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:37
+msgid "Try Again!!"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:38
+msgid "Total Sales"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:39
+msgid "Total Order"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:40
+msgid "Total sales this months"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:41
+msgid "Select a state"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:42
+msgid "Filter for registered customer"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:43
+msgid "Total Completed Orders"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:46
+msgid "Select a Payment Method"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:47
+msgid "Select Category"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:48
+msgid "Change Banner"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:50
+msgid "Change Profile"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:51
+msgid "Upload Profile"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:53
+msgid "URL"
+msgstr ""
+
+#: public/partials/wcmvp_multivendor_platform_translations.php:54
+msgid "Select tags"
+msgstr ""
+
+#: public/partials/wcmvp_product_page/wcmvp_add_product_cb.php:146
+msgid "unsuccessful"
+msgstr ""
+
+#: public/partials/wcmvp_product_page/wcmvp_add_product_cb.php:151
+msgid "You are not allowed to add products"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:6
+msgid "Welcome to "
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:8
+msgid ""
+"Prior To Begin! You need to follow some of simple instructions by which you will be safe and won't face "
+"any problem related to your store."
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:9
+msgid "Instructions!"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:11
+msgid "Foremost you need to fill the important information related to your store after that click on next."
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:12
+msgid "After that fill the payment methods to get withdrawals easily and hit the submit button."
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:14
+msgid "Now you are ready to run your own store. Best Wishes!!"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:15
+msgid "Let's Go!"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:42
+msgid "Profile"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:64
+msgid "Show Products Per Page"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:79 public/partials/wcmvp_store_setup.php:86
+msgid "Address Line 1"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:94 public/partials/wcmvp_store_setup.php:101
+msgid "Address Line 2"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:162
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:178
+msgid "Contact No."
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:194 public/partials/wcmvp_store_setup.php:201
+msgid "Store notice"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:257
+msgid "Store Timing"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:268
+msgid "Show store opening closing time widget"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:303 public/partials/wcmvp_store_setup.php:342
+#: public/partials/wcmvp_store_setup.php:356
+msgid "open"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:406 public/partials/wcmvp_store_setup.php:518
+msgid "Skip"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:413
+msgid "back"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:415
+msgid "Payment Details"
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:418
+msgid "Wanna get your store payment seamlessly? Please fill all your required details."
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:487
+msgid "Routing no."
+msgstr ""
+
+#: public/partials/wcmvp_store_setup.php:511
+msgid "swift_code"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:68
+msgid "Coupons"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:74
+msgid "Reviews"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:80
+msgid "Identity Verification"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:99
+msgid "Reports"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:105
+msgid "Store-Settings"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:111
+msgid "Payments"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:117
+msgid "Shipping"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:123
+msgid "Withdrawals"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:130
+msgid "Go to Store"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:136
+msgid "Edit Profile"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_dashboard_shortcode.php:142
+msgid "Log Out"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_order_table.php:133
+msgid "guest"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_order_table.php:144
+msgid "Complete"
+msgstr ""
+
+#: public/partials/wcmvp_vendor_order_table.php:145
+msgid "processing"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:630
+msgid "Balance not available"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:712
+#: public/wcmvp-class-multivendor-platform-public.php:716
+msgid "No details Found"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:1236
+#: public/wcmvp-class-multivendor-platform-public.php:1680
+msgid "Vendor dashboard"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:1267
+msgid "I am a Vendor"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:1273
+msgid "I am a Customer"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:1293
+msgid "Shop Name"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:1300
+msgid "Shop Url"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:1579
+msgid "First name is required"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:1582
+msgid "Last name is required"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:1585
+msgid "Shop name is required"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:1588
+msgid "Shop url is required"
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:2065
+msgid " Vendor info "
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:2071
+msgid " More Products from Vendor "
+msgstr ""
+
+#: public/wcmvp-class-multivendor-platform-public.php:2086
+msgid "Vendor Information"
+msgstr ""
